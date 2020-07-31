@@ -18,6 +18,8 @@ At this point however, Tremulous is obviously very old and there are no doubt be
 
 The original source code is also [available](https://github.com/darklegion/tremulous).
 
+There is an old [discussion forum](https://forum.tremulous.net/). It doesn't get much traffic, and is mostly up for posterity.
+
 ## Credits
 
 The original development team is listed below, although many other people contributed following the open source release.
