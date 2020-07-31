@@ -1,1 +1,11 @@
+title: "Tremulous"
+author: © 2000-2020 darklegion development
+email: tim@ngus.net
+description: Team based first person shooter with realtime strategy elements.
+
+lang: en_GB
+
+baseurl: ""
+url: "https://tremulous.net"
+
 theme: jekyll-theme-midnight
