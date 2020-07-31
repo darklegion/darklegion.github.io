@@ -14,7 +14,7 @@ Around 2000, development was started by players of the [Quake II](https://en.wik
 ## Downloads
 
 The original downloads are still hosted on [Sourceforge](https://sourceforge.net/projects/tremulous/files/tremulous/).
-At this point however, Tremulous is obviously very old and there are no doubt better options in terms of clients such as [Tremfusion](https://zittrig.eu/files/tremfusion/) ([source](https://github.com/Amanieu/tremfusion)) or [GrangerHub](https://github.com/GrangerHub/tremulous/tags) ([source](https://github.com/GrangerHub/tremulous)).
+At this point however, Tremulous is obviously very old and there are no doubt better options in terms of clients such as [Tremfusion](https://mirror.kdude63.com/mercenaries_guild/archive/Client_Binaries/TremFusion/) ([source](https://github.com/Amanieu/tremfusion)) or [GrangerHub](https://github.com/GrangerHub/tremulous/tags) ([source](https://github.com/GrangerHub/tremulous)).
 
 The original source code is also [available](https://github.com/darklegion/tremulous).
 
