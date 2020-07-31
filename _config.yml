@@ -8,4 +8,4 @@ lang: en_GB
 baseurl: ""
 url: "https://tremulous.net"
 
-theme: minima
+theme: jekyll-theme-hacker
