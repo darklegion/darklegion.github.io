@@ -24,7 +24,7 @@ There is an old [discussion forum](https://forum.tremulous.net/). It doesn't get
 
 The original development team is listed below, although many other people contributed following the open source release.
 
-* Tim Angus: Programming, Direction, Design
+* [Tim Angus](https://timang.us): Programming, Direction, Design
 * Nick Jansens: Mapping, Texturing, 2D Art
 * Robin Marshall: Mapping, Modelling, Animation
 * Jan van der Weg: Mapping, Texturing
