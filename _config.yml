@@ -9,3 +9,9 @@ baseurl: ""
 url: "https://tremulous.net"
 
 theme: jekyll-theme-hacker
+
+google_analytics: G-6N39BPN4YB
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
